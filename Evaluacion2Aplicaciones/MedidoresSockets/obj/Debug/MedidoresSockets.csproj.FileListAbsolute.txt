@@ -1,0 +1,6 @@
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\MedidoresSockets\bin\Debug\MedidoresSockets.dll
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\MedidoresSockets\bin\Debug\MedidoresSockets.pdb
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\MedidoresSockets\obj\Debug\MedidoresSockets.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\MedidoresSockets\obj\Debug\MedidoresSockets.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\MedidoresSockets\obj\Debug\MedidoresSockets.dll
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\MedidoresSockets\obj\Debug\MedidoresSockets.pdb

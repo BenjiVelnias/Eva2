@@ -1,0 +1,6 @@
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\LibreriaClases\obj\Debug\LibreriaClases.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\LibreriaClases\obj\Debug\LibreriaClases.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\LibreriaClases\bin\Debug\LibreriaClases.dll
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\LibreriaClases\bin\Debug\LibreriaClases.pdb
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\LibreriaClases\obj\Debug\LibreriaClases.dll
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\LibreriaClases\obj\Debug\LibreriaClases.pdb

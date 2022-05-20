@@ -1,0 +1,12 @@
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\Evaluacion2Aplicaciones\obj\Debug\Evaluacion2Aplicaciones.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\Evaluacion2Aplicaciones\obj\Debug\Evaluacion2Aplicaciones.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\Evaluacion2Aplicaciones\bin\Debug\Evaluacion2Aplicaciones.exe.config
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\Evaluacion2Aplicaciones\bin\Debug\Evaluacion2Aplicaciones.exe
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\Evaluacion2Aplicaciones\bin\Debug\Evaluacion2Aplicaciones.pdb
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\Evaluacion2Aplicaciones\bin\Debug\LibreriaClases.dll
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\Evaluacion2Aplicaciones\bin\Debug\LibreriaClases.pdb
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\Evaluacion2Aplicaciones\obj\Debug\Evaluacion2Aplicaciones.csproj.CopyComplete
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\Evaluacion2Aplicaciones\obj\Debug\Evaluacion2Aplicaciones.exe
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\Evaluacion2Aplicaciones\obj\Debug\Evaluacion2Aplicaciones.pdb
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\Evaluacion2Aplicaciones\bin\Debug\MedidoresSockets.dll
+C:\Users\ferna\source\repos\Evaluacion2Aplicaciones\Evaluacion2Aplicaciones\bin\Debug\MedidoresSockets.pdb
